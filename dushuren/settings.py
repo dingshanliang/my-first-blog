@@ -25,7 +25,7 @@ SECRET_KEY = 'se!sb67+fa5p!r_8ipgo!i-w@3b2*l1(@4a1yk1!2(#2i6f7$)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['pickgun4life.pythonanywhere.com']
+ALLOWED_HOSTS = ['pickgun4life.pythonanywhere.com','127.0.0.1']
 
 
 # Application definition
